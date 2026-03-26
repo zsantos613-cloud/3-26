@@ -7,3 +7,7 @@ body{
 	font-size: 5rem;
 	overflow: hidden;
 }
+
+.grid-container {
+		display: grid;
+}

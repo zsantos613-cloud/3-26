@@ -15,4 +15,7 @@ body{
 		gap: 2rem;
 }
 
-
+.last{
+	padding-bottom: 2rem;
+	border-bottom: 2px solid rgb(220, 200, 180);
+}
